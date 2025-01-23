@@ -1,6 +1,6 @@
-Readme file for SCALE-SDM to reproduce the results of *Simulation of marine stratocumulus using the super-droplet method: Numerical convergence and comparison to a double-moment bulk scheme using SCALE-SDM 5.2.6-2.3.1*.
+Readme file for SCALE-SDM to reproduce the results of AAS paper: *Resolving Entrainment–Mixing in Marine Stratocumulus: The Role of LES Grid Resolution and Super-Droplet Number* and GMD paper: *Simulation of marine stratocumulus using the super-droplet method: Numerical convergence and comparison to a double-moment bulk scheme using SCALE-SDM 5.2.6-2.3.1*.
 
-Corresponding Author: Shin-ichiro Shima (s_shima@sim.u-hyogo.ac.jp)
+Corresponding Author: Shin-ichiro Shima (s_shima@gsis.u-hyogo.ac.jp)
 
 # General description
 SCALE (Scalable Computing for Advanced Library and Environment), which stands for Scalable Computing for Advanced Library and Environment, is a basic library for weather and climate model of the earth and planets aimed to be widely used in various models.
